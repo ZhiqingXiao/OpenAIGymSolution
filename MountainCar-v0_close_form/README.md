@@ -13,9 +13,10 @@ Zhiqing Xiao
 
 Push right when
 
-$\min \left(-0.09 (\text{position} + 0.25) ^ 2 + 0.03, 0.3 (\text{position} + 0.9) ^ 4 - 0.008 \right) \le \text{velocity} \le -0.07 (\text{position} + 0.38) ^2 + 0.07$,
+min(-0.09 (position + 0.25)² + 0.03, 0.3 (position + 0.9)⁴ - 0.008) < velocity < -0.07 (position + 0.38)² + 0.07,
 
 otherwise push left.
 
 **File**
+
 - code: https://github.com/ZhiqingXiao/OpenAIGymSolution/blob/master/MountainCar-v0_close_form/mountaincar_v0_close_form.ipynb
