@@ -20,3 +20,14 @@ Zhiqing Xiao
 - videos for both training and testing: https://github.com/ZhiqingXiao/OpenAIGymSolution/tree/master/MountainCar-v0/records
 - pickled agent: https://github.com/ZhiqingXiao/OpenAIGymSolution/blob/master/MountainCar-v0/resources/agent.pkl
 - Anaconda environment yml file: https://github.com/ZhiqingXiao/OpenAIGymSolution/blob/master/MountainCar-v0/resources/anaconda_env_win10_py371.yml
+
+**BibTeX**
+
+This solution has been published in Chapter 6 of the following book:
+
+    @book{xiao2019,
+     title     = {Reinforcement Learning: Theory and {Python} Implementation},
+     author    = {Zhiqing Xiao}
+     year      = 2019,
+     publisher = {China Machine Press},
+    }

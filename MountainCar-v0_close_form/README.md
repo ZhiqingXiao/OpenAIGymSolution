@@ -20,3 +20,15 @@ otherwise push left.
 **File**
 
 - code: https://github.com/ZhiqingXiao/OpenAIGymSolution/blob/master/MountainCar-v0_close_form/mountaincar_v0_close_form.ipynb
+
+**BibTeX**
+
+This solution has been published in Chapter 1 of the following book:
+
+    @book{xiao2019,
+     title     = {Reinforcement Learning: Theory and {Python} Implementation},
+     author    = {Zhiqing Xiao}
+     year      = 2019,
+     publisher = {China Machine Press},
+    }
+
