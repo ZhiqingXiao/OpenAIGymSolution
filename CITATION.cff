@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Zhiqing Xiao"
+  given-names: "Zhiqing Xiao"
+  orcid: "https://orcid.org/0000-0001-5207-638X"
+title: "OpenAIGymSolution"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2021-08-11
+url: "https://github.com/ZhiqingXiao/OpenAIGymSolution"
