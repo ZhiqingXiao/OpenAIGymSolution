@@ -13,6 +13,7 @@ This repository contains solutions to the following environments:
 
 More closed-form solutions can be found [here](https://github.com/ZhiqingXiao/rl-book/tree/master/notebooks).
 
+**BibTeX**
 
 Some solutions in this repo have been published in the following book (in Simplified Chinese):
 
@@ -24,7 +25,7 @@ Some solutions in this repo have been published in the following book (in Simpli
      publisher = {China Machine Press},
     }
 
-All solutions will been published in the following book (in English):
+All solutions will be published in the following book (in English):
 
     @book{xiao2022,
      title     = {Reinforcement Learning: Theory and {Python} Implementation},
